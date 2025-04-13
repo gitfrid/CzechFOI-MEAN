@@ -1,0 +1,7 @@
+These scripts generate interactive HTML plot files 
+
+
+To use the scripts in Visual Studio Code, the necessary modules must first be imported into the Python console.
+
+For more information on using Plotly, refer to:
+https://plotly.com/python/plotly-express/
