@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the original CSV file
-df = pd.read_csv(r"C:\CzechFOI-MEAN\TERRA\PVT_NUM_D.csv")
+df = pd.read_csv(r"C:\CzechFOI-MEAN\TERRA\PVT_NUM_VDA.csv")
 
 # Drop the "DAY" column and store separately
 days = df["DAY"]
