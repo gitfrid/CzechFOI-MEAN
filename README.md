@@ -6,3 +6,30 @@ Dates are counted as the number of days since [January 1, 2020](https://github.c
 
 Access the original Czech FOI data from a [Freedom of Information request](https://github.com/PalackyUniversity/uzis-data-analysis/blob/main/data/Vesely_106_202403141131.tar.xz). 
 <br>To learn how the Pivot CSV files in the TERRA folder were created, see the [HowTo](https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Documentation/Readme%20HowTo.pdf)
+
+### Disclaimer:
+**The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
+_________________________________________
+
+Phyton script [AD) age_histogram.py](https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Py%20Scripts/AD%29%20age_histogram.py) for visualizing the downloaded CSV data
+<br>
+<br>
+<img src=https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Plot%20Results/AD)%20age_histogram/AD)%20age_histogram_360_days.png width="1280" height="auto">
+<br>
+
+[Download interactive html](https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Plot%20Results/AD%29%20age_histogram/AD%29%20age_histogram_360_days.html)
+<br>
+_________________________________________
+<br>
+<img src=https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Plot%20Results/AD%29%20age_histogram/AD%29%20age_histogram_62_days.png width="1280" height="auto">
+<br>
+
+[Download interactive html](https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Plot%20Results/AD%29%20age_histogram/AD%29%20age_histogram_62_days.html)
+<br>
+_________________________________________
+<br>
+<img src=https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Plot%20Results/AD%29%20age_histogram/AD%29%20age_histogram_31_days.png width="1280" height="auto">
+<br>
+
+[Download interactive html](https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Plot%20Results/AD%29%20age_histogram/AD%29%20age_histogram_31_days.html)
+<br>
