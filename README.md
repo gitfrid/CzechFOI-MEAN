@@ -10,6 +10,16 @@ Access the original Czech FOI data from a [Freedom of Information request](https
 ### Disclaimer:
 **The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
 _________________________________________
+**Mean Age of Death over all Age Groups**
+<br>Phyton script [AC) age_mean.py](https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Py%20Scripts/AC%29%20age_mean.py) for visualizing the downloaded CSV data
+<br>
+<br>
+<img src=https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Plot%20Results/AC%29%20age_mean/AC%29%20age_mean_with_doses.png width="1280" height="auto">
+<br>
+
+[Download interactive html](https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Plot%20Results/AC%29%20age_mean/AC%29%20age_mean_with_doses.html)
+<br>
+_________________________________________
 **Age Distribution of Deaths Within 360 Days Before versus After the Start of Vac (First Dose) for Each Age Group**
 <br>Phyton script [AD) age_histogram.py](https://github.com/gitfrid/CzechFOI-MEAN/blob/main/Py%20Scripts/AD%29%20age_histogram.py) for visualizing the downloaded CSV data
 <br>
